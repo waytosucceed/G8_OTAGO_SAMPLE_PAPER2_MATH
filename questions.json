@@ -1,0 +1,52 @@
+{
+  "heading": "Sample Paper 2",
+  "topics": [
+    {
+      "heading": "Sample Paper 2",
+      "questions": [
+      
+        {
+          "questionNo": 1,
+          "question": "A fruit seller purchased some mangoes, out of which 6% were spoiled. If the number of spoiled mangoes was 54, then how many mangoes did he buy in total?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["900"]
+        },
+        {
+          "questionNo": 2,
+          "question": "John is two years older than Mark. Steve is two years younger than Mark.<br>The sum of their ages is 48. How old is John?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["18 years"]
+        },
+        {
+          "questionNo": 3,
+          "question": "A bakery sells cupcakes at 5 for $6. On a special day, they change the price to 7 for $8. If Riya buys 35 cupcakes, will she spend more or less under the new price, and by how much?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["$2 less"]
+        },
+        {
+          "questionNo": 4,
+          "question": "A half-full sack of rice weighs 50 kg, and a one-fourth-full sack of rice weighs 30 kg. What is the weight of the empty sack?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["10 kg"]
+        },
+        {
+          "questionNo": 5,
+          "question": "John walks around a rectangular parking lot every morning. When he walks along the path from A to B to C to D, he covers 48 meters. When he walks along the path from D to A to B to C, he covers 36 meters.<br><img width='40%' src='./assests/images/1.png'><br> Find the perimeter of the parking lot.",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["56 meters"]
+        }
+      ]
+      
+    }
+  ]
+}
